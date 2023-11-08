@@ -1,0 +1,6 @@
+passlib
+requests
+tqdm
+argon2_cffi 
+pygsheets
+BeautifulSoup4
